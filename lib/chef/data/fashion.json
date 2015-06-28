@@ -1,0 +1,116 @@
+[{
+  "products": [
+    {
+      "id": 1,
+      "colorId": 9,
+      "name": "Fashion item #1",
+      "image": "images/fashion/item2.jpeg",
+      "description": "est enim optio dolorum laboriosam sint deleniti quo fuga maxime\nassumenda nam et error recusandae\nvelit in consectetur et et accusantium\narchitecto temporibus soluta libero ut ipsum\neveniet et ex totam itaque odit iste exercitationem illum qui\nomnis nostrum porro corrupti perferendis sit nemo veritatis expedita inventore",
+      "price": 2
+    },
+    {
+      "id": 2,
+      "colorId": 5,
+      "name": "Fashion item #2",
+      "image": "images/fashion/item8.jpeg",
+      "description": "fuga animi ut\ntenetur id et blanditiis nesciunt dolore ut vero\nperferendis quibusdam vel\naut vero aliquam ullam architecto magnam asperiores enim\nvoluptate sint reprehenderit\nblanditiis excepturi cumque qui",
+      "price": 151
+    },
+    {
+      "id": 3,
+      "colorId": 5,
+      "name": "Fashion item #3",
+      "image": "images/fashion/item6.jpeg",
+      "description": "reprehenderit sit accusantium eum\nrerum enim libero omnis et cum magni eaque\nrerum rerum molestias sit vel temporibus\neaque vitae reiciendis",
+      "price": 137
+    },
+    {
+      "id": 4,
+      "colorId": 4,
+      "name": "Fashion item #4",
+      "image": "images/fashion/item4.jpeg",
+      "description": "est et voluptate maiores sint eum asperiores exercitationem occaecati\ncommodi qui enim aut ut qui aliquam\nsunt molestias sed sunt quibusdam ut voluptatum est neque\nsaepe optio rem quia\net tempora quidem iste laudantium",
+      "price": 28
+    },
+    {
+      "id": 5,
+      "colorId": 9,
+      "name": "Fashion item #5",
+      "image": "images/fashion/item9.jpeg",
+      "description": "eos rem non\nomnis omnis molestiae laudantium sed nam temporibus veniam ut\nvoluptas numquam qui dolor autem quaerat est\niure ipsum dolore nostrum accusantium maiores beatae quam omnis quibusdam",
+      "price": 66
+    },
+    {
+      "id": 6,
+      "colorId": 2,
+      "name": "Fashion item #6",
+      "image": "images/fashion/item1.jpeg",
+      "description": "suscipit aut doloremque quas\nminima libero animi voluptatem in sint voluptatibus\nin saepe blanditiis nihil dolores fugit officia\nasperiores enim iure autem sint quas quos id temporibus",
+      "price": 91
+    },
+    {
+      "id": 7,
+      "colorId": 1,
+      "name": "Fashion item #7",
+      "image": "images/fashion/item4.jpeg",
+      "description": "ipsa et ut quasi omnis facilis rerum quia est assumenda\noptio excepturi quae aspernatur voluptates rerum quaerat aut asperiores\nimpedit in iure alias aliquam saepe et",
+      "price": 71
+    },
+    {
+      "id": 8,
+      "colorId": 10,
+      "name": "Fashion item #8",
+      "image": "images/fashion/item9.jpeg",
+      "description": "qui commodi qui molestias et ut\nvel vero nam ex dicta aperiam ut ut\neos neque sit omnis minus laudantium quo\nnam laboriosam quae accusantium qui omnis nihil aut quisquam",
+      "price": 112
+    },
+    {
+      "id": 9,
+      "colorId": 8,
+      "name": "Fashion item #9",
+      "image": "images/fashion/item9.jpeg",
+      "description": "et exercitationem quae hic dolore ipsum\ncupiditate accusantium necessitatibus\nculpa perferendis et tenetur eaque",
+      "price": 96
+    },
+    {
+      "id": 10,
+      "colorId": 9,
+      "name": "Fashion item #10",
+      "image": "images/fashion/item8.jpeg",
+      "description": "corrupti adipisci sequi eaque\nea voluptas sed\nneque commodi voluptas qui sed et omnis est ut\nveniam qui maxime omnis",
+      "price": 163
+    },
+    {
+      "id": 11,
+      "colorId": 3,
+      "name": "Fashion item #11",
+      "image": "images/fashion/item0.jpeg",
+      "description": "quaerat asperiores nihil sequi ipsam quia officia magnam dolorem et\ndolor numquam est maiores blanditiis voluptatem nisi\nid doloribus itaque sint sapiente numquam",
+      "price": 96
+    },
+    {
+      "id": 12,
+      "colorId": 1,
+      "name": "Fashion item #12",
+      "image": "images/fashion/item2.jpeg",
+      "description": "id ratione magni\nsit totam mollitia ea cum\nautem et sit\nenim rerum pariatur est nesciunt quod",
+      "price": 111
+    },
+    {
+      "id": 13,
+      "colorId": 9,
+      "name": "Fashion item #13",
+      "image": "images/fashion/item9.jpeg",
+      "description": "quidem quis incidunt sed quibusdam\nillum debitis et quisquam impedit labore\nlaboriosam beatae veritatis sint sequi\ncorrupti ullam libero pariatur qui sit illo autem exercitationem natus\nest molestiae est",
+      "price": 23
+    },
+    {
+      "id": 14,
+      "colorId": 8,
+      "name": "Fashion item #14",
+      "image": "images/fashion/item7.jpeg",
+      "description": "quisquam et esse ut quae\nat quo praesentium et perspiciatis maiores labore et est eum\nrerum nihil quia et corrupti\nalias odio impedit unde",
+      "price": 158
+    }
+  ]
+}]
