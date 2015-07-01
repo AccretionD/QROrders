@@ -5,7 +5,7 @@
       "colorId": 2,
       "name": "Food item #1",
       "image": "images/food/item7.jpeg",
-      "description": "numquam ex voluptas quo\nnatus voluptatibus repudiandae dolorem harum quasi temporibus\nharum sit minima placeat ad rerum molestiae quam nihil",
+      "description": "Cazuela de mariscos",
       "price": 21
     },
     {
@@ -13,7 +13,7 @@
       "colorId": 9,
       "name": "Food item #2",
       "image": "images/food/item4.jpeg",
-      "description": "sed sit quis maiores et\naut atque dolorem quo dolores exercitationem voluptas\nperspiciatis explicabo labore\nconsequatur rerum voluptas quia voluptatum laborum aspernatur eveniet\nnihil reprehenderit illum\nsapiente quia enim non iure dolorum",
+      "description": "Bandeja Paisa",
       "price": 25
     },
     {
@@ -21,7 +21,7 @@
       "colorId": 3,
       "name": "Food item #3",
       "image": "images/food/item2.jpeg",
-      "description": "deserunt esse sunt quia accusantium rerum officia fugit tempora\nvel consequatur labore corrupti omnis dolores sit\ncupiditate ut id velit consequatur quia recusandae sunt perferendis voluptas",
+      "description": "Churrasquito",
       "price": 17
     },
     {
@@ -29,7 +29,7 @@
       "colorId": 5,
       "name": "Food item #4",
       "image": "images/food/item8.jpeg",
-      "description": "aut magni provident corporis accusamus nisi corrupti\ndolore facere voluptates saepe\nunde quos id tempore veritatis praesentium\nporro eius in dolores maxime\nex veritatis quibusdam nam ipsum",
+      "description": "Trucha al ajillo",
       "price": 20
     },
     {
@@ -37,7 +37,7 @@
       "colorId": 5,
       "name": "Food item #5",
       "image": "images/food/item1.jpeg",
-      "description": "tempora ipsam aut ea deserunt ea aut\nmaxime culpa et ab eum\ntenetur vitae delectus et quia voluptate ratione est quos\ncum nobis alias et sint est molestias occaecati voluptas maiores",
+      "description": "Pollo en salsa de la casa",
       "price": 5
     },
     {
@@ -45,7 +45,7 @@
       "colorId": 2,
       "name": "Food item #6",
       "image": "images/food/item2.jpeg",
-      "description": "nihil repudiandae facilis\ncorrupti fugit porro tempora consequuntur velit voluptatibus ducimus deserunt\nnostrum modi porro magnam quia",
+      "description": "Carne en bistec",
       "price": 22
     },
     {
@@ -53,7 +53,7 @@
       "colorId": 6,
       "name": "Food item #7",
       "image": "images/food/item7.jpeg",
-      "description": "sunt reprehenderit nostrum\naliquam molestias minima laudantium repellendus\npariatur delectus soluta quo assumenda facilis hic doloribus et",
+      "description": "Ensalada del campo mediterraneo",
       "price": 11
     },
     {
@@ -61,7 +61,7 @@
       "colorId": 2,
       "name": "Food item #8",
       "image": "images/food/item1.jpeg",
-      "description": "eligendi ab in nemo\nquas quo quis\nodit aut deleniti consequatur\net iste qui incidunt culpa\nquos tenetur porro\ncum at eum",
+      "description": "Sopa Covarachia",
       "price": 16
     },
     {
